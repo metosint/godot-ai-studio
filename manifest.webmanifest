@@ -1,0 +1,10 @@
+{
+  "name": "AI Game Studio",
+  "short_name": "AI Studio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10121b",
+  "theme_color": "#10121b",
+  "description": "Tablet-friendly AI workspace for Godot projects",
+  "icons": [{"src":"/static/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
